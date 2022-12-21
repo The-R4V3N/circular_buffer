@@ -1,6 +1,6 @@
 /**
  * @file circular_buffer.c
- * @author Oliver Joisten (o.joisten@live.se)
+ * @author Oliver Joisten (https://the-r4v3n.github.io/github.io/#)
  * @brief Implement a single instance circular buffer according to the requirements below.
  *            The buffer is an array of type int.
  *            Length of the array is a macro defined in the header file
